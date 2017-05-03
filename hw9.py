@@ -35,7 +35,7 @@ def find_arrest_rate(frame):
 # dataframes against this data by outputting your frame to a csv file using
 # <myframe>.to_csv(<provide a file name>)
 
-# ####### Part 1:  Createing the DataFrame
+# ####### Part 1:  Creating the DataFrame
 
 # Read in the data and index it using a TimeSeries.  Compare to a solution file.
 #
